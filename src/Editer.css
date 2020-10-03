@@ -1,0 +1,20 @@
+.editer_container {
+  flex-grow: 1;
+  flex-basis: 0;
+  background-color: rgba(0, 0, 0, 0.891);
+  color: white;
+  display: flex;
+  flex-direction: column;
+}
+
+.editer_top_bar {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.icon_button {
+  color: white !important;
+}
+
